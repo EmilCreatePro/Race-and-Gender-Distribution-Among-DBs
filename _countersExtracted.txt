@@ -1,0 +1,31 @@
+latino_hispanic_cnt: 4964
+indian_cnt: 2325
+black_cnt: 2921
+white_cnt: 20694
+asian_cnt: 11882
+middle_eastern_cnt: 698
+unknown_race_cnt: 393
+woman_cnt: 10426
+man_cnt: 33058
+unknown_gender_cnt: 393
+For latino hispanic and Man we have: 3676
+For indian and Man we have: 1872
+For black and Man we have: 2556
+For white and Man we have: 14545
+For asian and Man we have: 9757
+For middle eastern and Man we have: 652
+For unknown_race and Man we have: 0
+For latino hispanic and Woman we have: 1288
+For indian and Woman we have: 453
+For black and Woman we have: 365
+For white and Woman we have: 6149
+For asian and Woman we have: 2125
+For middle eastern and Woman we have: 46
+For unknown_race and Woman we have: 0
+For latino hispanic and unknown_gender we have: 0
+For indian and unknown_gender we have: 0
+For black and unknown_gender we have: 0
+For white and unknown_gender we have: 0
+For asian and unknown_gender we have: 0
+For middle eastern and unknown_gender we have: 0
+For unknown_race and unknown_gender we have: 393
